@@ -16,7 +16,7 @@ El proyecto integró tres componentes principales:
 
 | Archivo / Carpeta | Descripción |
 |--------------------|-------------|
-| `Backup_WordPress/` | Copia de seguridad del sitio web institucional. |
+| `Backup_WordPress/` | Copia de seguridad del sitio web. Solicitar este archivo al +57 3182018778 (por motivos de tamaño del archivo, no se pudo adjuntar al repositoria |
 | `Informe_Tecnico.pdf` | Documento técnico del proyecto con descripción, tecnologías y procedimientos. |
 | `Bitacora_Tecnica.xlsx` | Registro cronológico de actividades técnicas realizadas. |
 | `Estructura_Taller_Historias.pdf` | Documento guía del taller participativo de narrativas digitales. |
